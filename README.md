@@ -1,1 +1,2 @@
-# Affine-le-Gorsel-Sifreleme
+# Affine ile Görsel Şifreleme
+# Affine şifreleme methodu ile görsel şifreleme
